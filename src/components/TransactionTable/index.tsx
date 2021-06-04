@@ -14,10 +14,10 @@ export function TransactionTable(){
       <table>
         <thead>
           <tr>
-            <th>Titulo</th>
-            <th>Valor</th>
-            <th>Categoria</th>
-            <th>Data</th>
+            <th>Title</th>
+            <th>Value</th>
+            <th>Category</th>
+            <th>Date</th>
           </tr>
         </thead>
 
