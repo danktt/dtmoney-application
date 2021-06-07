@@ -2,8 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.table`
   margin-top:4rem;
-  display: flex;
-  justify-content: space-around;
+ 
 
   table{
     width: 100%;
@@ -11,7 +10,7 @@ export const Container = styled.table`
   }
 
   th{
-    color: var(--text-color);
+    color: var(--text-title);
     font-weight: 400;
     padding: 1rem 2rem;
     text-align: left;
